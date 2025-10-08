@@ -1,2 +1,5 @@
-# kanutmse.github.io
-Personal blog
+Coming soon
+
+
+Contact 
+contact@kanutm.dev
