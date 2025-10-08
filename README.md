@@ -1,5 +1,13 @@
-Coming soon
+# kanutm.dev
 
+🚧 Website coming soon
 
-Contact 
-contact@kanutm.dev
+## About
+Personal blog and portfolio
+
+## Contact
+📧 [contact@kanutm.dev](mailto:contact@kanutm.dev)
+
+---
+
+Built with ❤️ using GitHub Pages
